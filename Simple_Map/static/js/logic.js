@@ -1,4 +1,7 @@
+<<<<<<< HEAD
  
+=======
+>>>>>>> b46dd3b438a7590eb5f0f0ea921653269ef9744d
 // Add console.log to check to see if our code is working.
 console.log("working");
 
